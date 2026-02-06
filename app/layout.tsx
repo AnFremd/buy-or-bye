@@ -1,3 +1,4 @@
+import 'tailwindcss/tailwind.css';
 import { ClerkProvider } from '@clerk/nextjs'
 
 export const metadata = {
