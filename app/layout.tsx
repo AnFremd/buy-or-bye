@@ -1,4 +1,4 @@
-import './globals.css' // <-- Добавь это первой строкой
+import 'tailwindcss/tailwind.css'; // Добавь это первой строкой!
 import { ClerkProvider } from '@clerk/nextjs'
 
 export const metadata = {
